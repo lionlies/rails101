@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "devise", "~> 3.5.6"
 gem "simple_form"
 gem "quiet_assets"
 gem "bootstrap-sass", "~> 3.3.6"
